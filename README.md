@@ -81,7 +81,7 @@ This dashboard is useful for:
 ## 📫 Contact
 
 For feedback or contributions, feel free to reach out at:  
-**[Aqsa Akram]**  
-**Gmail:** aqsaakram00109@gmail.com  
+**[Muhammad Usman Akram]**  
+**Gmail:** musman00109@gmail.com  
 
 
